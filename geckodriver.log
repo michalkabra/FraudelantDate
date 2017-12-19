@@ -1,0 +1,26 @@
+1513679277728	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1513679277734	geckodriver	INFO	Listening on 127.0.0.1:52168
+1513679279733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.KSx8KpyiRVUZ"
+1513679280179	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513679281446	Marionette	INFO	Listening on port 52174
+1513679281823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513679281865	Marionette	DEBUG	Register listener.js for window 4294967297
+1513679283883	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513679283933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513679283935	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513679283935	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513679283960	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=nssFailure2&u=https%3A//instagram.fsdv2-1.fna.fbcdn.net/t51.2885-19/s320x320/23101296_140732679901816_7791387746609659904_n.jpg&c=UTF-8&f=regular&d=The%20connection%20to%20the%20server%20was%20reset%20while%20the%20page%20was%20loading."
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+s\Administrator\AppData\Local\openvr\openvrpaths.vrpath
